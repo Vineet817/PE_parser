@@ -39,17 +39,12 @@ This repository hosts PE‑Parser, a learning‑first exercise in Rust’s spiri
 
 
 
- \*\*Dive Deeper\*\*: Read the accompanying blog post for lab-style walkthrough—detailing structure definitions, parsing logic, RVA resolution, and more. :contentReference\[oaicite:4]{index=4}  
+ \*\*Dive Deeper\*\*: Read the accompanying blog post for lab-style walkthrough—detailing structure definitions, parsing logic, RVA resolution, and more. :
 
 
 
 ---
 
-
-
-This description emphasizes clarity, structural insight, and a learning-centered approach—all in a tone that resonates with Rust developers who value safe, explicit, and well-typed code. Let me know if you'd like a refined version or a README template in actual Rust syntax!
-
-::contentReference\[oaicite:5]{index=5}
 
 
 
